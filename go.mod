@@ -1,4 +1,4 @@
-module github.com/ornew/jpnorm
+module github.com/ornew/go-text-transform
 
 go 1.16
 

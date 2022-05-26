@@ -1,4 +1,4 @@
-package jpnorm
+package transformer
 
 import (
 	"golang.org/x/text/transform"
